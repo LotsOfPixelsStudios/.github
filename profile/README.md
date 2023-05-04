@@ -1,5 +1,11 @@
 # Timolia Creative
 
-This Organisation provides some reposetories for building, documenting and examples. This may be used by other organisations to improve theire workflow.
+Our organisation is a service provider for Minecraft addon development, providing services from development, level design, development as well as software supporting Minecraft addon development.
+Our main project is called TranClate, which is a sdk for Minecraft Addon development.
+
+With TranClate you can:
+- develop addons
+- automatically build skinpacks
+- package your project for Auger
 
 ## [TranClate Wiki](https://timoliacreative.github.io/#/)
